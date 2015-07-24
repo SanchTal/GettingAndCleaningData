@@ -33,8 +33,7 @@ In this repository, you find:
 
 ## Basic Assumption
 
-The R code in *run_analysis.R* proceeds under the assumption that the zip file available at [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-is downloaded and extracted in the R Home Directory.
+The R code in *run_analysis.R* proceeds under the assumption that the zip file available at [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) is downloaded and extracted in the R Home Directory.
 
 
 ## Libraries Used
